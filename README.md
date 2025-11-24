@@ -1,4 +1,4 @@
-🥗 Calorie Calculator (Python Project)
+# 🥗 Calorie Calculator (Python Project)
 This project involves a simple calorie calculator built with Python. It helps figure out the daily calorie needs for people, providing a foundational tool for personal health management. The core engine of the tool relies on the widely accepted Harris-Benedict equation (BMR formula) to accurately calculate a person's Basal Metabolic Rate (BMR). BMR represents the minimum number of calories required to keep the body functioning at rest. From the BMR calculation, the program then extrapolates to show the necessary calories for achieving specific goals: maintaining current weight, slightly gaining weight (caloric surplus), or progressively losing weight (caloric deficit). This makes it a practical, multi-purpose utility for fitness enthusiasts and individuals tracking their diet.
 
 📍 Features
